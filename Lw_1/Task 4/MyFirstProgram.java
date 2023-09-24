@@ -1,5 +1,4 @@
-import myfirstpackage.MySecondClass;
-
+import myfirstpackage.*;
 class MyFirstClass {
     public static void main(String[] s) {
         MySecondClass obj = new MySecondClass();
